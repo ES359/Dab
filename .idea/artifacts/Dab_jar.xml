@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Dab:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dab_jar</output-path>
+    <root id="archive" name="Dab.jar">
+      <element id="module-output" name="Dab" />
+    </root>
+  </artifact>
+</component>

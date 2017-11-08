@@ -1,0 +1,9 @@
+name: DAB
+main: me.es359.Dab.Dab
+version: 0.0.0.0.0.1
+description: DAAAAB
+author: (ES) ur soul is mein
+
+commands:
+  dab:
+    description: waits three seconds
